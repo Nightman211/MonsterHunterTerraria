@@ -1,4 +1,3 @@
-# MonsterHunterTerraria
+# Terraria Monster Hunter
 Terraria Monster Hunter Mod
-
-Test by me
+Created by Nightman211 and Wiztim
